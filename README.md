@@ -3,6 +3,7 @@
 This project aims to predict potential customer churn in a telecommunications company using historical customer data. The model was built with a complete machine learning pipeline, including preprocessing, SMOTE for data balancing, and a tuned Decision Tree Classifier.
 
 📂 File Structure
+
 data_telo_customer_churn.csv
 Raw dataset containing customer information (demographics, subscribed services, billing details, and churn status).
 
