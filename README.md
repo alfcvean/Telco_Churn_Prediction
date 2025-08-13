@@ -5,12 +5,15 @@ This project aims to predict potential customer churn in a telecommunications co
 📂 File Structure
 
 data_telo_customer_churn.csv
+
 Raw dataset containing customer information (demographics, subscribed services, billing details, and churn status).
 
 final_pipe.sav
+
 Trained machine learning pipeline ready for direct prediction.
 
 Telco_Churn_Prediction.ipynb
+
 Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), SMOTE oversampling, pipeline creation, model training, and performance evaluation.
 
 ⚙️ Key Features
